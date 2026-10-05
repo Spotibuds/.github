@@ -1,0 +1,38 @@
+[
+  {
+    "id": "overview",
+    "file": "Spotibuds-Overview.mp4",
+    "sha256": "bce444f49f35b1eae8d8a9fd77c92195e379ae862b32fbd3b6172732e852bde9",
+    "attachment": "https://github.com/user-attachments/assets/e77e37b6-90f7-4a4f-bab4-9d27be7a8e78"
+  },
+  {
+    "id": "discover",
+    "file": "Spotibuds-01-Discover-and-Listen.mp4",
+    "sha256": "df7ead0b17f8801201cbb67745c7a4f513b9b36540bee9d601a8d41bdc96746b",
+    "attachment": "https://github.com/user-attachments/assets/46847f3f-ade7-4c8e-ab09-19c5ffa80536"
+  },
+  {
+    "id": "favorites",
+    "file": "Spotibuds-02-Favorites-and-Playlists.mp4",
+    "sha256": "4e2a3115932a143cf7618f61a1d09a73bf22265dfe0bccdc8e1444f6540d5d57",
+    "attachment": "https://github.com/user-attachments/assets/a4ca6f5b-31b1-4037-a924-0c9cb51af75e"
+  },
+  {
+    "id": "feed",
+    "file": "Spotibuds-03-Feed-and-Profiles.mp4",
+    "sha256": "89ae8674faf55a163f14488da2d09b02545e20fc0725cd08aece8d65dc3324f3",
+    "attachment": "https://github.com/user-attachments/assets/71aa5a37-a19e-4dab-b31d-fbe0c263c614"
+  },
+  {
+    "id": "friends",
+    "file": "Spotibuds-04-Friends-Chat-Notifications.mp4",
+    "sha256": "26e1f8cf6a69c95e93575ab4e6290546d922333d390bc902129ad3b2709f58ac",
+    "attachment": "https://github.com/user-attachments/assets/2e04e1f5-ab94-49f5-847f-b6135ca6d42f"
+  },
+  {
+    "id": "accounts",
+    "file": "Spotibuds-05-Accounts-and-Administration.mp4",
+    "sha256": "8b892a42adaf1213a38ac34f43523aceb0d98598818139a009b1f5be36356063",
+    "attachment": "https://github.com/user-attachments/assets/ddf68cbf-700a-4269-8efe-8535aeca6b93"
+  }
+]
