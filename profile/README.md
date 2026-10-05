@@ -2,20 +2,22 @@
 
 Music listening with a social side. Explore artists and albums, build playlists, discover listening activity and chat with friends across desktop and mobile.
 
-[![Spotibuds: desktop listening and mobile chat](https://raw.githubusercontent.com/Spotibuds/Frontend/main/docs/portfolio/preview.jpg)](https://github.com/Spotibuds/Frontend/releases/download/demo-suite-2026-10-05/Spotibuds-Overview.mp4)
+[![Spotibuds: desktop listening and mobile chat](https://raw.githubusercontent.com/Spotibuds/Frontend/main/docs/portfolio/preview.jpg)](https://spotibuds.github.io/.github/#overview)
 
-**[Watch the 1:16 overview with sound](https://github.com/Spotibuds/Frontend/releases/download/demo-suite-2026-10-05/Spotibuds-Overview.mp4)** · [Live app](https://spotibuds-cfd43e7a.swedencentral.cloudapp.azure.com) · [Architecture and local setup](https://github.com/Spotibuds/Frontend/tree/main/docs/portfolio)
+**[Watch the 1:16 overview with sound](https://spotibuds.github.io/.github/#overview)** · [Architecture and local setup](https://github.com/Spotibuds/Frontend/tree/main/docs/portfolio)
+
+Watch directly in your browser with sound, captions and chapter navigation. No download or account is needed; the recordings are hosted independently of the app server.
 
 ## See it in action
 
-| Video                                                                                                                                                        | Length | Workflows                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | --------------------------------------------------------------------------------------------------------- |
-| [Overview](https://github.com/Spotibuds/Frontend/releases/download/demo-suite-2026-10-05/Spotibuds-Overview.mp4)                                             | 1:16   | Audible listening, reactions, collections and independent desktop/mobile chat                             |
-| [Discover and listen](https://github.com/Spotibuds/Frontend/releases/download/demo-suite-2026-10-05/Spotibuds-01-Discover-and-Listen.mp4)                    | 1:54   | Home, catalogue paging, music/people search, playback, queue, album/artist links and mobile navigation    |
-| [Favorites and playlists](https://github.com/Spotibuds/Frontend/releases/download/demo-suite-2026-10-05/Spotibuds-02-Favorites-and-Playlists.mp4)            | 0:57   | Favorites, creation, covers, visibility, album/song additions, order, persistence and disposable deletion |
-| [Feed and listening profiles](https://github.com/Spotibuds/Frontend/releases/download/demo-suite-2026-10-05/Spotibuds-03-Feed-and-Profiles.mp4)              | 1:42   | All five feed cards, navigation, playback, reactions, profiles, post links and listening history          |
-| [Friends, chat and notifications](https://github.com/Spotibuds/Frontend/releases/download/demo-suite-2026-10-05/Spotibuds-04-Friends-Chat-Notifications.mp4) | 1:24   | Request/cancel/decline/accept, profile messaging, delivery, receipts, saved chats and inbox actions       |
-| [Accounts and administration](https://github.com/Spotibuds/Frontend/releases/download/demo-suite-2026-10-05/Spotibuds-05-Accounts-and-Administration.mp4)    | 1:46   | Registration, profile/avatar/privacy, sign-in/out, recovery limits and administration previews            |
+| Video                                                                           | Length | Workflows                                                                                                 |
+| ------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------------------------------------- |
+| [Overview](https://spotibuds.github.io/.github/#overview)                       | 1:16   | Audible listening, reactions, collections and independent desktop/mobile chat                             |
+| [Discover and listen](https://spotibuds.github.io/.github/#discover)            | 1:54   | Home, catalogue paging, music/people search, playback, queue, album/artist links and mobile navigation    |
+| [Favorites and playlists](https://spotibuds.github.io/.github/#favorites)       | 0:57   | Favorites, creation, covers, visibility, album/song additions, order, persistence and disposable deletion |
+| [Feed and listening profiles](https://spotibuds.github.io/.github/#feed)        | 1:42   | All five feed cards, navigation, playback, reactions, profiles, post links and listening history          |
+| [Friends, chat and notifications](https://spotibuds.github.io/.github/#friends) | 1:24   | Request/cancel/decline/accept, profile messaging, delivery, receipts, saved chats and inbox actions       |
+| [Accounts and administration](https://spotibuds.github.io/.github/#accounts)    | 1:46   | Registration, profile/avatar/privacy, sign-in/out, recovery limits and administration previews            |
 
 These are recordings of the deployed app using existing music and synthetic participants. Listening scenes include actual playback audio. Matching captions, chapter timestamps and checksums accompany the [demo release](https://github.com/Spotibuds/Frontend/releases/tag/demo-suite-2026-10-05). [Coverage plan](https://github.com/Spotibuds/Frontend/blob/main/docs/demo-coverage.md) · [Timestamped action index](https://github.com/Spotibuds/Frontend/blob/main/docs/demo-coverage.json).
 

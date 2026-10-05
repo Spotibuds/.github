@@ -1,0 +1,314 @@
+[
+  {
+    "id": "overview",
+    "title": "Overview",
+    "description": "Music, collections and conversations in one app.",
+    "duration": "1:16",
+    "file": "Spotibuds-Overview.mp4",
+    "sha256": "bce444f49f35b1eae8d8a9fd77c92195e379ae862b32fbd3b6172732e852bde9",
+    "chapters": [
+      {
+        "title": "Hear the album play",
+        "start": 0
+      },
+      {
+        "title": "React and see the people behind it",
+        "start": 8.0
+      },
+      {
+        "title": "Send from desktop to mobile",
+        "start": 15.0
+      },
+      {
+        "title": "Search songs, albums and artists",
+        "start": 22.0
+      },
+      {
+        "title": "Queue and navigate without stopping",
+        "start": 29.0
+      },
+      {
+        "title": "Give the playlist a cover and share it",
+        "start": 36.0
+      },
+      {
+        "title": "Find artists in common",
+        "start": 43.0
+      },
+      {
+        "title": "Accept from the notification inbox",
+        "start": 49.0
+      },
+      {
+        "title": "Reply from the phone",
+        "start": 56.0
+      },
+      {
+        "title": "Listen on a phone",
+        "start": 63.0
+      },
+      {
+        "title": "Account management",
+        "start": 70.0
+      }
+    ]
+  },
+  {
+    "id": "discover",
+    "title": "Discover and listen",
+    "description": "Search the catalogue, explore artists and albums, and control playback.",
+    "duration": "1:54",
+    "file": "Spotibuds-01-Discover-and-Listen.mp4",
+    "sha256": "df7ead0b17f8801201cbb67745c7a4f513b9b36540bee9d601a8d41bdc96746b",
+    "chapters": [
+      {
+        "title": "Start with the home page",
+        "start": 0
+      },
+      {
+        "title": "Browse the catalogue",
+        "start": 14.78
+      },
+      {
+        "title": "Search songs, albums and artists",
+        "start": 25.01
+      },
+      {
+        "title": "Search people and recover from no results",
+        "start": 38.74
+      },
+      {
+        "title": "Hear the album play",
+        "start": 46.48
+      },
+      {
+        "title": "Control the listening session",
+        "start": 63.98
+      },
+      {
+        "title": "Queue and navigate without stopping",
+        "start": 77.18
+      },
+      {
+        "title": "Listen on a phone",
+        "start": 91.32
+      },
+      {
+        "title": "Navigate without a desktop sidebar",
+        "start": 100.4
+      }
+    ]
+  },
+  {
+    "id": "favorites",
+    "title": "Favorites and playlists",
+    "description": "Save songs, build a playlist and keep your collection in order.",
+    "duration": "0:57",
+    "file": "Spotibuds-02-Favorites-and-Playlists.mp4",
+    "sha256": "4e2a3115932a143cf7618f61a1d09a73bf22265dfe0bccdc8e1444f6540d5d57",
+    "chapters": [
+      {
+        "title": "Keep a favourite",
+        "start": 0
+      },
+      {
+        "title": "Create a named collection",
+        "start": 7.5
+      },
+      {
+        "title": "Add one song or a whole album",
+        "start": 15.27
+      },
+      {
+        "title": "Give the playlist a cover and share it",
+        "start": 24.14
+      },
+      {
+        "title": "Make the order yours",
+        "start": 31.64
+      },
+      {
+        "title": "Open the collection on mobile",
+        "start": 42.34
+      },
+      {
+        "title": "Delete only a disposable collection",
+        "start": 49.84
+      }
+    ]
+  },
+  {
+    "id": "feed",
+    "title": "Feed and listening profiles",
+    "description": "Play from the feed, react to friends and explore their listening activity.",
+    "duration": "1:42",
+    "file": "Spotibuds-03-Feed-and-Profiles.mp4",
+    "sha256": "89ae8674faf55a163f14488da2d09b02545e20fc0725cd08aece8d65dc3324f3",
+    "chapters": [
+      {
+        "title": "A feed post is something you can play",
+        "start": 0
+      },
+      {
+        "title": "React and see the people behind it",
+        "start": 8.8
+      },
+      {
+        "title": "Move through posts at your own pace",
+        "start": 16.54
+      },
+      {
+        "title": "Listen to what a friend is playing",
+        "start": 24.62
+      },
+      {
+        "title": "See the week in artists",
+        "start": 32.12
+      },
+      {
+        "title": "Replay this week’s tracks",
+        "start": 39.62
+      },
+      {
+        "title": "Find artists in common",
+        "start": 47.12
+      },
+      {
+        "title": "Follow the post to its artist and album",
+        "start": 54.62
+      },
+      {
+        "title": "Explore a listening profile",
+        "start": 63.15
+      },
+      {
+        "title": "Open profile collections",
+        "start": 74.62
+      },
+      {
+        "title": "Open the post behind a reaction",
+        "start": 83.14
+      },
+      {
+        "title": "Filter and replay listening history",
+        "start": 91.37
+      }
+    ]
+  },
+  {
+    "id": "friends",
+    "title": "Friends, chat and notifications",
+    "description": "Connect with a friend and exchange messages across desktop and mobile.",
+    "duration": "1:24",
+    "file": "Spotibuds-04-Friends-Chat-Notifications.mp4",
+    "sha256": "26e1f8cf6a69c95e93575ab4e6290546d922333d390bc902129ad3b2709f58ac",
+    "chapters": [
+      {
+        "title": "Find a friend and send a request",
+        "start": 0
+      },
+      {
+        "title": "The recipient chooses",
+        "start": 7.5
+      },
+      {
+        "title": "Accept from the notification inbox",
+        "start": 15.0
+      },
+      {
+        "title": "Open a conversation from a profile",
+        "start": 22.5
+      },
+      {
+        "title": "Send from desktop to mobile",
+        "start": 30.0
+      },
+      {
+        "title": "Reply from the phone",
+        "start": 37.5
+      },
+      {
+        "title": "Keep the conversation after reload",
+        "start": 45.0
+      },
+      {
+        "title": "Manage saved notifications",
+        "start": 52.5
+      },
+      {
+        "title": "Remove a newly added friendship",
+        "start": 60.0
+      },
+      {
+        "title": "Mark individual and bulk notifications read",
+        "start": 67.5
+      },
+      {
+        "title": "Dismiss only the new demo updates",
+        "start": 76.63
+      }
+    ]
+  },
+  {
+    "id": "accounts",
+    "title": "Accounts and administration",
+    "description": "Create an account, edit a profile and explore administration previews.",
+    "duration": "1:46",
+    "file": "Spotibuds-05-Accounts-and-Administration.mp4",
+    "sha256": "8b892a42adaf1213a38ac34f43523aceb0d98598818139a009b1f5be36356063",
+    "chapters": [
+      {
+        "title": "Create an account",
+        "start": 0
+      },
+      {
+        "title": "Make the profile yours",
+        "start": 7.5
+      },
+      {
+        "title": "Choose what to share",
+        "start": 16.13
+      },
+      {
+        "title": "Privacy across sessions",
+        "start": 23.63
+      },
+      {
+        "title": "Return to a public profile",
+        "start": 31.13
+      },
+      {
+        "title": "Sign out and sign back in",
+        "start": 38.63
+      },
+      {
+        "title": "Recovery is explicitly unavailable",
+        "start": 46.13
+      },
+      {
+        "title": "An invalid reset link has a next step",
+        "start": 53.63
+      },
+      {
+        "title": "Album administration",
+        "start": 61.13
+      },
+      {
+        "title": "Song metadata and file controls",
+        "start": 71.53
+      },
+      {
+        "title": "Artist artwork and biography",
+        "start": 83.13
+      },
+      {
+        "title": "Account management",
+        "start": 91.33
+      },
+      {
+        "title": "Administrator controls are separate",
+        "start": 98.83
+      }
+    ]
+  }
+]

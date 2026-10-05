@@ -1,0 +1,56 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.000
+Hear the album play
+Playback starts progressively, with ordered tracks and separate performer credits.
+
+2
+00:00:08.000 --> 00:00:15.000
+React and see the people behind it
+A reaction updates its state; the reactions dialog links to real profiles.
+
+3
+00:00:15.000 --> 00:00:22.000
+Send from desktop to mobile
+Messages are persisted and arrive in the other session live.
+
+4
+00:00:22.000 --> 00:00:29.000
+Search songs, albums and artists
+The same query can be narrowed to each kind of music result.
+
+5
+00:00:29.000 --> 00:00:36.000
+Queue and navigate without stopping
+Queue actions and album/artist links use the same player state.
+
+6
+00:00:36.000 --> 00:00:43.000
+Give the playlist a cover and share it
+Cover upload/removal and visibility are explicit owner controls.
+
+7
+00:00:43.000 --> 00:00:49.000
+Find artists in common
+Cards are derived from listening activity, including the music played during this recording.
+
+8
+00:00:49.000 --> 00:00:56.000
+Accept from the notification inbox
+The live inbox receives the request and resolves it when accepted.
+
+9
+00:00:56.000 --> 00:01:03.000
+Reply from the phone
+The same conversation works with touch-sized controls on mobile.
+
+10
+00:01:03.000 --> 00:01:10.000
+Listen on a phone
+The mobile player keeps progress visible and expands into full listening controls.
+
+11
+00:01:10.000 --> 00:01:16.000
+Account management
+Account emails are redacted; role and deletion prompts are canceled.

@@ -1,0 +1,36 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.500
+Keep a favourite
+Favorites update immediately and survive a fresh page load.
+
+2
+00:00:07.500 --> 00:00:15.270
+Create a named collection
+A playlist begins private and explains its purpose.
+
+3
+00:00:15.270 --> 00:00:24.140
+Add one song or a whole album
+Adding the album keeps the existing song once rather than duplicating it.
+
+4
+00:00:24.140 --> 00:00:31.640
+Give the playlist a cover and share it
+Cover upload/removal and visibility are explicit owner controls.
+
+5
+00:00:31.640 --> 00:00:42.340
+Make the order yours
+Move controls change track order, and a removed track stays removed after reload.
+
+6
+00:00:42.340 --> 00:00:49.840
+Open the collection on mobile
+A different user can listen to the public playlist without receiving owner controls.
+
+7
+00:00:49.840 --> 00:00:57.340
+Delete only a disposable collection
+Cancel keeps the collection; confirm deletes only the playlist created for this recording.

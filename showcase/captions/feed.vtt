@@ -1,0 +1,61 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.800
+A feed post is something you can play
+Recent listening uses relative time, playback controls and links to the music.
+
+2
+00:00:08.800 --> 00:00:16.540
+React and see the people behind it
+A reaction updates its state; the reactions dialog links to real profiles.
+
+3
+00:00:16.540 --> 00:00:24.620
+Move through posts at your own pace
+Previous/next buttons, keyboard arrows and refresh are all available.
+
+4
+00:00:24.620 --> 00:00:32.120
+Listen to what a friend is playing
+Cards are derived from listening activity, including the music played during this recording.
+
+5
+00:00:32.120 --> 00:00:39.620
+See the week in artists
+Cards are derived from listening activity, including the music played during this recording.
+
+6
+00:00:39.620 --> 00:00:47.120
+Replay this week’s tracks
+Cards are derived from listening activity, including the music played during this recording.
+
+7
+00:00:47.120 --> 00:00:54.620
+Find artists in common
+Cards are derived from listening activity, including the music played during this recording.
+
+8
+00:00:54.620 --> 00:01:03.150
+Follow the post to its artist and album
+The feed opens the same catalogue pages used by discovery.
+
+9
+00:01:03.150 --> 00:01:14.620
+Explore a listening profile
+Weekly artists, recent listening and public collections load independently.
+
+10
+00:01:14.620 --> 00:01:23.140
+Open profile collections
+Friends and public playlists open in dismissible dialogs.
+
+11
+00:01:23.140 --> 00:01:31.370
+Open the post behind a reaction
+Recent reactions belong to the owner’s profile and link to the original activity.
+
+12
+00:01:31.370 --> 00:01:41.640
+Filter and replay listening history
+Month filtering handles empty results; retained tracks can be played again.

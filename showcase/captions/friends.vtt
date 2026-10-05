@@ -1,0 +1,56 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.500
+Find a friend and send a request
+A request becomes pending; the sender can cancel it.
+
+2
+00:00:07.500 --> 00:00:15.000
+The recipient chooses
+Incoming requests can be declined without creating a friendship.
+
+3
+00:00:15.000 --> 00:00:22.500
+Accept from the notification inbox
+The live inbox receives the request and resolves it when accepted.
+
+4
+00:00:22.500 --> 00:00:30.000
+Open a conversation from a profile
+Accepted friends can go directly from the profile to messaging.
+
+5
+00:00:30.000 --> 00:00:37.500
+Send from desktop to mobile
+Messages are persisted and arrive in the other session live.
+
+6
+00:00:37.500 --> 00:00:45.000
+Reply from the phone
+The same conversation works with touch-sized controls on mobile.
+
+7
+00:00:45.000 --> 00:00:52.500
+Keep the conversation after reload
+A new page load retrieves the saved conversation.
+
+8
+00:00:52.500 --> 00:01:00.000
+Manage saved notifications
+Open a saved notification’s destination and dismiss a demonstration-only update.
+
+9
+00:01:00.000 --> 00:01:07.500
+Remove a newly added friendship
+Cancel keeps the friend; confirm removes only the relationship created in this recording.
+
+10
+00:01:07.500 --> 00:01:16.630
+Mark individual and bulk notifications read
+Live follow and reaction updates let the recipient mark one read, then resolve the remaining unread update.
+
+11
+00:01:16.630 --> 00:01:24.130
+Dismiss only the new demo updates
+Remove one saved update or clear the remaining inbox of this new demonstration account.
