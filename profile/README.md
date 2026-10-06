@@ -42,9 +42,13 @@ https://github.com/user-attachments/assets/2e04e1f5-ab94-49f5-847f-b6135ca6d42f
 
 ### Accounts and administration · 1:46
 
-Register, edit profiles, avatars and privacy, and preview administration screens. Catalogue writes and role changes are not saved.
+<details>
+  <summary>Register, edit profiles, avatars and privacy, and preview administration screens.</summary>
+  <br>
 
-https://github.com/user-attachments/assets/ddf68cbf-700a-4269-8efe-8535aeca6b93
+  https://github.com/user-attachments/assets/ddf68cbf-700a-4269-8efe-8535aeca6b93
+
+</details
 
 ## The implementation, briefly
 
